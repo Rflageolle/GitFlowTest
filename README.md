@@ -52,9 +52,9 @@
    
  ## Git-Flow 
     
-    - From the man himself https://nvie.com/posts/a-successful-git-branching-model/
-    - By utilizing git-flow in your projects you are not losing any function of the regular git commands
-    - **Download Instructions** --  https://github.com/nvie/gitflow/wiki/Installation
+   - From the man himself https://nvie.com/posts/a-successful-git-branching-model/
+   - By utilizing git-flow in your projects you are not losing any function of the regular git commands
+   - **Download Instructions** --  https://github.com/nvie/gitflow/wiki/Installation
     
   **Set Up**
   ```shell
